@@ -11,7 +11,7 @@
  "Config": [{
 
      "Name Bet Set": "32/35",
-     "Base Bet": "0.015",
+     "Base Bet": "0.025",
      "Max Bet": "OFF",
      "Chance": "6",
      "Random Chance": {
@@ -39,10 +39,10 @@
      }
   ],
   "Auto Wd": {
-       "Toggle": "off",
-       "If Balance": "25000.00000000",
-       "Wallet Address": "Z7i5",
-       "Amount": "25000.00000000",
+       "Toggle": "on",
+       "If Balance": "13000.00000000",
+       "Wallet Address": "322170868",
+       "Amount": "13000.00000000",
        "Repeat": "On"
       },
   "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-A507FN Build/QP1A.190711.020)"
