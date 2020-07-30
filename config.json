@@ -33,7 +33,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "140"
+           "Lose Streak": "120"
         },
      "Interval": "1"
      }
