@@ -11,7 +11,7 @@
  "Config": [{
 
      "Name Bet Set": "32/35",
-     "Base Bet": "0.1",
+     "Base Bet": "0.05",
      "Max Bet": "OFF",
      "Chance": "6",
      "Random Chance": {
@@ -33,7 +33,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "120"
+           "Lose Streak": "130"
         },
      "Interval": "1"
      }
