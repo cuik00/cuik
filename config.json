@@ -11,7 +11,7 @@
  "Config": [{
 
      "Name Bet Set": "32/35",
-     "Base Bet": "0.05",
+     "Base Bet": "0.02",
      "Max Bet": "OFF",
      "Chance": "6",
      "Random Chance": {
@@ -33,7 +33,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "130"
+           "Lose Streak": "140"
         },
      "Interval": "1"
      }
@@ -41,7 +41,7 @@
   "Auto Wd": {
        "Toggle": "on",
        "If Balance": "12500.00000000",
-       "Wallet Address": "DKUa4vajRwhNuYo54XNxiVnhdCTosMbb8Q",
+       "Wallet Address": "DKsVrigpNNVgcZ8YhAah7X98X1pr9dtCD7",
        "Amount": "12500.00000000",
        "Repeat": "On"
       },
