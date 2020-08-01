@@ -4,7 +4,7 @@
      "Username": "",
      "Password": ""
      },
- "Target Profit": "100.000",
+ "Target Profit": "3000.000",
  "Target Win": "50000.00000000",
  "Lose Target": "0.00000",
  "Interval": "10",
@@ -33,16 +33,16 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "140"
+           "Lose Streak": "200"
         },
      "Interval": "1"
      }
   ],
   "Auto Wd": {
        "Toggle": "on",
-       "If Balance": "12500.00000000",
+       "If Balance": "12000.00000000",
        "Wallet Address": "DKsVrigpNNVgcZ8YhAah7X98X1pr9dtCD7",
-       "Amount": "12500.00000000",
+       "Amount": "12000.00000000",
        "Repeat": "On"
       },
   "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-A507FN Build/QP1A.190711.020)"
