@@ -4,14 +4,14 @@
      "Username": "",
      "Password": ""
      },
- "Target Profit": "5000.000",
+ "Target Profit": "2000.000",
  "Target Win": "50000.00000000",
  "Lose Target": "0.00000",
  "Interval": "8",
  "Config": [{
 
      "Name Bet Set": "1",
-     "Base Bet": "0.050",
+     "Base Bet": "0.0450",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -39,7 +39,7 @@
      },{
 
      "Name Bet Set": "2",
-     "Base Bet": "0.050",
+     "Base Bet": "0.0470",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -67,7 +67,7 @@
      },{
 
   "Name Bet Set": "3",
-     "Base Bet": "0.050",
+     "Base Bet": "0.051",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -95,7 +95,7 @@
      },{
 
      "Name Bet Set": "4",
-     "Base Bet": "0.050",
+     "Base Bet": "0.0440",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -123,7 +123,7 @@
      },{
 
      "Name Bet Set": "5",
-     "Base Bet": "0.050",
+     "Base Bet": "0.0470",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -151,7 +151,7 @@
      },{
 
   "Name Bet Set": "6",
-     "Base Bet": "0.050",
+     "Base Bet": "0.053",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -179,7 +179,7 @@
      },{
 
    "Name Bet Set": "7",
-     "Base Bet": "0.050",
+     "Base Bet": "0.0509",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -207,7 +207,7 @@
      },{
 
      "Name Bet Set": "8",
-     "Base Bet": "0.050",
+     "Base Bet": "0.0520",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -235,7 +235,7 @@
      },{
 
   "Name Bet Set": "9",
-     "Base Bet": "0.050",
+     "Base Bet": "0.0560",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -263,7 +263,7 @@
      },{
 
      "Name Bet Set": "10",
-     "Base Bet": "0.050",
+     "Base Bet": "0.04850",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -291,7 +291,7 @@
      },{
 
      "Name Bet Set": "11",
-     "Base Bet": "0.050",
+     "Base Bet": "0.0532",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -319,7 +319,7 @@
      },{
 
   "Name Bet Set": "12",
-     "Base Bet": "0.050",
+     "Base Bet": "0.0543",
      "Max Bet": "OFF",
      "Chance": "6.01",
      "Random Chance": {
@@ -1020,9 +1020,9 @@
   ],
   "Auto Wd": {
        "Toggle": "on",
-       "If Balance": "8000.00000000",
+       "If Balance": "4000.00000000",
        "Wallet Address": "D6tpLSLGJaEk37u1R8VjcCUPFGWzthuAko",
-       "Amount": "8000.00000000",
+       "Amount": "1000.00000000",
        "Repeat": "On"
       },
   "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-A507FN Build/QP1A.190711.020)"
