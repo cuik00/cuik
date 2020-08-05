@@ -44,7 +44,7 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "33.97",
+          "Min": "33.77",
           "Max": "54.72"
         },
      "Bet": {
@@ -100,8 +100,8 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "33.07",
-          "Max": "56.82"
+          "Min": "33.17",
+          "Max": "55.82"
         },
      "Bet": {
           "Bet": "Low",
@@ -184,7 +184,7 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "34.17",
+          "Min": "34.37",
           "Max": "54.92"
         },
      "Bet": {
@@ -240,7 +240,7 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "34.97",
+          "Min": "33.97",
           "Max": "53.57"
         },
      "Bet": {
@@ -280,7 +280,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.87",
+     "If Lose": "1.927",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -296,7 +296,7 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "33.45",
+          "Min": "33.35",
           "Max": "54.07"
         },
      "Bet": {
@@ -740,9 +740,9 @@
   ],
   "Auto Wd": {
        "Toggle": "on",
-       "If Balance": "10000.00000000",
+       "If Balance": "6000.00000000",
        "Wallet Address": "D6tpLSLGJaEk37u1R8VjcCUPFGWzthuAko",
-       "Amount": "10000.00000000",
+       "Amount": "6000.00000000",
        "Repeat": "On"
       },
   "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-A507FN Build/QP1A.190711.020)"
