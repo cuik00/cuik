@@ -307,7 +307,7 @@
               "If Win": "3"
             }
         },
-     "If Win": "1.",
+     "If Win": "1",
      "If Lose": "1.94",
      "Reset If Win": "1",
      "Reset If Profit": "1",
@@ -363,7 +363,7 @@
               "If Win": "3"
             }
         },
-     "If Win": "1.",
+     "If Win": "1",
      "If Lose": "1.88",
      "Reset If Win": "1",
      "Reset If Profit": "1",
@@ -447,7 +447,7 @@
               "If Win": "3"
             }
         },
-     "If Win": "1.",
+     "If Win": "1",
      "If Lose": "1.85",
      "Reset If Win": "1",
      "Reset If Profit": "1",
