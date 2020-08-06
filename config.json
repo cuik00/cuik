@@ -4,7 +4,7 @@
      "Username": "",
      "Password": ""
      },
- "Target Profit": "100.000",
+ "Target Profit": "150.000",
  "Target Win": "50000.00000000",
  "Lose Target": "0.00000",
  "Interval": "1",
@@ -16,8 +16,8 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "33.07",
-          "Max": "54.62"
+          "Min": "36.07",
+          "Max": "53.92"
         },
      "Bet": {
           "Bet": "Low",
@@ -44,7 +44,7 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "33.77",
+          "Min": "35.77",
           "Max": "54.72"
         },
      "Bet": {
@@ -56,7 +56,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.88",
+     "If Lose": "1.948",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -84,7 +84,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.85",
+     "If Lose": "1.95",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -100,7 +100,7 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "33.17",
+          "Min": "36.17",
           "Max": "55.82"
         },
      "Bet": {
@@ -112,7 +112,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.9",
+     "If Lose": "1.945",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -140,7 +140,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.92",
+     "If Lose": "1.952",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -168,7 +168,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.9",
+     "If Lose": "1.95",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -240,7 +240,7 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "33.97",
+          "Min": "36.97",
           "Max": "53.57"
         },
      "Bet": {
@@ -252,7 +252,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.93",
+     "If Lose": "1.95",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -268,7 +268,7 @@
      "Chance": "5.88",
      "Random Chance": {
           "Toggle": "Off",
-          "Min": "34.07",
+          "Min": "34.99",
           "Max": "54.82"
         },
      "Bet": {
@@ -280,7 +280,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.927",
+     "If Lose": "1.947",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -296,7 +296,7 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "33.35",
+          "Min": "37.35",
           "Max": "54.07"
         },
      "Bet": {
@@ -324,7 +324,7 @@
      "Chance": "6.01",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "34.72",
+          "Min": "35.72",
           "Max": "54.11"
         },
      "Bet": {
@@ -336,7 +336,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.92",
+     "If Lose": "1.95",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -364,7 +364,7 @@
             }
         },
      "If Win": "1",
-     "If Lose": "1.88",
+     "If Lose": "1.944",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -392,7 +392,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.91",
+     "If Lose": "1.951",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -420,7 +420,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.9",
+     "If Lose": "1.95",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -448,7 +448,7 @@
             }
         },
      "If Win": "1",
-     "If Lose": "1.85",
+     "If Lose": "1.94",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -476,7 +476,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.85",
+     "If Lose": "1.95",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -504,7 +504,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.857",
+     "If Lose": "1.957",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -532,7 +532,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.92",
+     "If Lose": "1.955",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -672,7 +672,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.87",
+     "If Lose": "1.97",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -699,7 +699,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.88",
+     "If Lose": "1.958",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
@@ -727,7 +727,7 @@
             }
         },
      "If Win": "1.",
-     "If Lose": "1.82",
+     "If Lose": "1.942",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
