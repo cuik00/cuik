@@ -4,7 +4,7 @@
      "Username": "",
      "Password": ""
      },
- "Target Profit": "100.000",
+ "Target Profit": "1100.000",
  "Target Win": "50000.00000000",
  "Lose Target": "0.00000",
  "Interval": "1",
@@ -376,9 +376,9 @@
   ],
   "Auto Wd": {
        "Toggle": "on",
-       "If Balance": "5000.00",
+       "If Balance": "1100.00",
        "Wallet Address": "DE9j3wzjZss8biBnnqnBA9JS8T81rGzJZb",
-       "Amount": "5000.000",
+       "Amount": "100.000",
        "Repeat": "On"
       },
   "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-A507FN Build/QP1A.190711.020)"
