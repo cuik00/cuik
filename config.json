@@ -33,7 +33,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "19"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -61,7 +61,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "18"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -89,7 +89,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "19"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -117,7 +117,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -145,7 +145,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -173,7 +173,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -201,7 +201,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -229,7 +229,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -257,7 +257,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -285,7 +285,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -313,7 +313,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "19"
+           "Lose Streak": "16"
         },
      "Interval": "1"
      },{
@@ -341,7 +341,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "17"
         },
      "Interval": "1"
      },{
@@ -369,7 +369,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "17"
         },
      "Interval": "1"
      }
