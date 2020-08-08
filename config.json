@@ -376,9 +376,9 @@
   ],
   "Auto Wd": {
        "Toggle": "on",
-       "If Balance": "1100.00",
-       "Wallet Address": "DE9j3wzjZss8biBnnqnBA9JS8T81rGzJZb",
-       "Amount": "100.000",
+       "If Balance": "10000.00",
+       "Wallet Address": "DDmeDXosWXsD6HZDcnBRxTDVteHKQVEiZ1",
+       "Amount": "10000.000",
        "Repeat": "On"
       },
   "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; SM-A507FN Build/QP1A.190711.020)"
