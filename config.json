@@ -348,9 +348,9 @@
   ],
   "Auto Wd": {
        "Toggle": "off",
-       "If Balance": "100000.00",
-       "Wallet Address": "",
-       "Amount": "100000.000",
+       "If Balance": "6000.00",
+       "Wallet Address": "DBUyf5tQGAVg27p5YQGQ9MoKnWw1yXAC84",
+       "Amount": "6000.000",
        "Repeat": "On"
       },
   "User-Agent": "Mozilla/5.0 (Linux; Android 9; Mi A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36)"
