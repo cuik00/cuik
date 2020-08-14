@@ -347,7 +347,7 @@
 
   ],
   "Auto Wd": {
-       "Toggle": "off",
+       "Toggle": "on",
        "If Balance": "6000.00",
        "Wallet Address": "DBUyf5tQGAVg27p5YQGQ9MoKnWw1yXAC84",
        "Amount": "6000.000",
